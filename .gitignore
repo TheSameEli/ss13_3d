@@ -1,0 +1,21 @@
+/bin/
+/package/
+/publish/
+/research/
+*.generated.h
+__pycache__/
+*.pyc
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+*.mp3
+*.wav
+*.midi
+*.mid
+*.zip
+validation.json
+Start-NativeClient — копия.ps1

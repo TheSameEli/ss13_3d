@@ -1,0 +1,12 @@
+{
+  "byondVersion": "516.1688",
+  "architecture": "x86",
+  "renderer": "Direct3D 9",
+  "sha256": {
+    "dreamseeker.exe": "dde2893d7d6721eb8cb73d9e6b9f8cb28d86d1e432b42edaad10b066800a97e4",
+    "byondcore.dll": "fd3855446a094ac57e4cf7189d7249be29c3f45b0cf620fd96104d93d901c29c",
+    "byondwin.dll": "160181fed9699847d9ec39dfb38e066540bc7a68378f0cd9c8ce2dff05530d69"
+  },
+  "assetRepository": "https://github.com/ss220club/Bandastation",
+  "assetBaselineCommit": "6f729ec2ce48ecce63fb59f80eaaea6c37e4e877"
+}
